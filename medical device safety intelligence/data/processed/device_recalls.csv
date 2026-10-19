@@ -1,0 +1,95 @@
+﻿cfres_id,product_res_number,res_event_number,event_date_initiated_raw,event_date_initiated,event_date_posted_raw,event_date_posted,termination_date_raw,termination_date,recall_status,product_code,product_description,recalling_firm,reason_for_recall
+222721,Z-0001-2027,99843,2026-09-03,2026-09-03,2026-10-10,2026-10-10,,,"Open, Classified",LCO,HemoslL AcuStar HIT-lgG(PF-4). Part Number: 0009800127. in vitro diagnostic,Instrumentation Laboratory,Potential for invalid calibration curve or negative mean bias of up to 47% with patient samples.
+222722,Z-0002-2027,99843,2026-09-03,2026-09-03,2026-10-10,2026-10-10,,,"Open, Classified",LCO,HemoslL AcuStar HIT-lgG(PF-4). Part Number: 0009802028. in vitro diagnostic (OUS only),Instrumentation Laboratory,Potential for invalid calibration curve or negative mean bias of up to 47% with patient samples.
+222522,Z-0081-2027,99814,2026-09-02,2026-09-02,2026-10-02,2026-10-02,,,"Open, Classified",MHW,"Battle Bandage, REF: 32-700;
+Patrol IFAK Bag, Black - Advanced, REF: 81-125-BL;
+Patrol IFAK Bag, Multicam - Advanced, REF: 81-125-MC;
+Patrol IFAK II, Olive Drab, Stocked (Option 1),  81-129-OD;
+IFAK Bag, Intermediate, Black - Stocked, 81-133-BL;
+IFAK Bag, Intermediate, Coyote Brown - Stocked, 81-133-CB;
+IFAK Bag, Intermediate, Multicam - Stocked, 81-133-MC;
+IFAK Bag, Advanced, Black - Stocked, 81-135-BL;
+IFAK Bag, Advanced, Multicam - Stocked, 81-135-MC;
+LEO Patrol Kit, 81-139;
+IFAK Refill, 81-301;
+IFAK Resupply, 81-303-01;
+IFAK Resupply - CS/30, 81-303-30;
+K9 Trauma Kit, 81-605;
+Medic Enhancement Set, 82-504-03;
+Medic Enhancement Resupply, 82-504-05;
+Emergency Trauma Kit, 82-520;
+First Responder - Intermediate, Coyote Brown, 83-303;
+First Responder, Intermediate, Black, 83-303-BL;
+DC-First Responder - Intermediate - Foliage Green, 83-303-FG;
+First Responder, Intermediate, Multicam, 83-303-MC;
+First Responder - Advanced- Coyote Brown, 83-305-CB;
+Combat Life Saver - Intermediate - Coyote Brown, 83-323-CB;
+Combat Life Saver - Intermediate - Multicam, 83-323-MC;
+Multi Mission, Advanced, Black - Stocked, 84-446-01-BL;
+Multi Mission, Advanced, Coyote Brown - Stocked, 84-446-01-CB;
+Multi Mission, Advanced, Multicam - Stocked, 84-446-01-MC;
+Direct Action Bag, Coyote Brown, Advanced, Stocked, 84-497-CB;
+DC-DIRECT ACTION BAG, FOLIAGE GREEN, ADVANCED, STOCKED, 84-497-FG;
+Direct Action Bag, Multicam, Advanced, Stocked, 84-497-MC;
+Bleeding Control Kit - Advanced, Stocked, 87-155;
+Stop the Bleed Kit (NJSP), 87-232;
+Patrol Officer IFAK - Basic, 88-105-01;
+Patrol Officer IFAK - Advanced, 88-105-03;
+High Threat Kit - Basic, 88-108-01;
+High Threat Kit - Intermediate, 88-108-02;
+High Threat Kit - Advanced, 88-108-03;
+High Threat Kit - PS, 88-108-05;
+Micro Trauma Kit (without Tourniquet), Black, 88-147;
+SDR EDC v1 - OTC, SDR-EDC1OTC;
+DC-SDR EDC v1 - OTC, SDR-EDC1-OTC;
+SDR Tactical Battle Belt IFAK - OTC - Black, SDR-TBBOTC;
+DC-SDR Tactical Battle Belt IFAK - OTC, SDR-TBB-OTC;
+SDR Tactical Battle Belt IFAK - OTC - Coyote Brown, SDR-TBBOTC-CB;
+Emergency Trauma Kit (Employee only kit), SG0999/COM",Safeguard US Operating LLC,"Compression bandage may be degraded, which may cause unwanted foreign material to be introduced inside the wound, which may lead to wound exploration and irrigation, formation of scar tissue, and infection."
+222507,Z-0083-2027,99800,2026-09-02,2026-09-02,2026-10-02,2026-10-02,,,"Open, Classified",JJE,"DxC 500i Clinical Analyzer Modules:
+
+1. DxC 500 AU Module w/ISE, DxC 500i, Part No. C63522
+
+2. DxC 500 AU Module, DxC 500i, Part No. C63521
+
+3. Access 2 Module, DxC 500i, Part No. C13252",Beckman Coulter Inc.,"Beckman Coulter has identified a software issue affecting DxC 500i Clinical Analyzers when testing plasma samples. Following user configuration of a Clinical Chemistry test to use units different from the system default, a subsequent configuration change and activation of the draft configuration in the System Configuration page may cause the analyzer to revert the test units to the system default setting without notifying the user. The system does
+Pre-Review Reminders
+Include OII and CDRHRecallGroup@fda.hhs.gov in any discussions on change/elevation of recalls to Class I classification and situations involving additional public communications (FDA and/or firm issued).
+Post-Review Reminders
+Final Check: Ensure your documentation accurately reflects the final recommendation prior to signature.
+Complete CTS: Recall Product tab, Additional Recall Event Info, Regulation, and Act.
+Upload PDFs of Consult, Review Memo, and Classification Letter for Class I Recall in DocMan.
+[Click to enter extra reminder]To add reminders, type the reminder in the text field to the left then press the Tab key.
+Doc ID 03534.05.06 2 of 8
+not provide a warning or notification to alert the user that the configured units have reverted to
+the default units. This issue can result in falsely elevated reported results."
+222508,Z-0084-2027,99800,2026-09-02,2026-09-02,2026-10-02,2026-10-02,,,"Open, Classified",JJE,"DxC 500 AU Clinical Chemistry Analyzers:
+
+1. AU w/out ISE, Part No. C63519
+
+2. AU w/ISE, Part No. C63520",Beckman Coulter Inc.,"Beckman Coulter has identified a software issue affecting DxC 500 AU Clinical Analyzers when testing plasma samples. Following user configuration of a Clinical Chemistry test to use units different from the system default, a subsequent configuration change and activation of the draft configuration in the System Configuration page may cause the analyzer to revert the test units to the system default setting without notifying the user. The system does
+Pre-Review Reminders
+Include OII and CDRHRecallGroup@fda.hhs.gov in any discussions on change/elevation of recalls to Class I classification and situations involving additional public communications (FDA and/or firm issued).
+Post-Review Reminders
+Final Check: Ensure your documentation accurately reflects the final recommendation prior to signature.
+Complete CTS: Recall Product tab, Additional Recall Event Info, Regulation, and Act.
+Upload PDFs of Consult, Review Memo, and Classification Letter for Class I Recall in DocMan.
+[Click to enter extra reminder]To add reminders, type the reminder in the text field to the left then press the Tab key.
+Doc ID 03534.05.06 2 of 8
+not provide a warning or notification to alert the user that the configured units have reverted to
+the default units. This issue can result in falsely elevated reported results."
+222485,Z-3252-2026,99787,2026-09-03,2026-09-03,2026-10-01,2026-10-01,,,"Open, Classified",BYE,"VentStar Resus Neo. Neonatal. 25 Units per Box. Part Number: MP00310
+
+Disposable breathing circuit for use with a resuscitation module.","Draeger, Inc.","Potential cracks in the hose, which could lead to leakage or the hose falling off."
+221825,Z-0089-2027,99549,2026-09-08,2026-09-08,2026-10-06,2026-10-06,,,"Open, Classified",MHX,"Product Name: Nihon Kohden CNS-6200 Series Central Nurse Station,
+Model/Catalog Number: CN-6201
+Software Version: software versions: 01-03, 01-04, 01-05, 01-06, 02-10, 02-11, and 02-40
+Product Description: The device is intended for use by medical professionals to provide cardiac and vital signs monitoring for multiple patients within a medical facility. The CNS-6200 Series Central Nurse Station will display and record physiological data from up to forty telemetry receiver/transmitters and generates an alarm when a measured parameter falls outside a pre-set limit or when life threatening arrhythmia is detected. Arrhythmia detection and alarm determination are functions of the telemetry receivers/transmitters or individual bedside monitor.
+Component: No",Nihon Kohden America LLC,Due to a cybersecurity issue associate with a NULL Pointer Dereferences vulnerabiity. If exploited would potentially cause disruption of the centralized monitoring of multiple beds and the visualization of alarms.
+222577,Z-0143-2027,99829,2026-09-10,2026-09-10,2026-10-09,2026-10-09,,,"Open, Classified",FGE,"NaviFlex LW Pusher;
+Advx Panc. Stent 4/5F;
+Material Number (UPN): M00535030;",Boston Scientific Corporation,"Device was incorrectly manufactured with a guidewire exit port (referred to in the IFU as the RX port), which is not a design feature associated with this device configuration."
+222525,Z-3306-2026,99816,2026-09-14,2026-09-14,2026-09-25,2026-09-25,,,"Open, Classified",MRN,NOxBOXi Nitric Oxide Delivery System. Model Number: NOXBOX-I.,NOXBOX LTD,Potential for irregular oxygen readings due to a manufacturing issue affecting certain oxygen sensors.
+222741,Z-0118-2027,99856,2026-09-23,2026-09-23,2026-10-07,2026-10-07,,,"Open, Classified",FTA,"HexaVue Focus Integration System, a single, all-in-one system that handles operating room video routing, surgical video integration, and environmental control, Software Version: 2.0.18",Steris Corporation,A software issue may result in unintended mismatch of patient information on manually printed images. Incorrect patient information appearing on printed images could create a documentation discrepancy or incorrect association of clinical images with a patient record.
+222960,Z-0147-2027,99948,2026-09-25,2026-09-25,2026-10-09,2026-10-09,,,"Open, Classified",OHO,"FORWARD Gunshot Wound Kit;
+Model: AFT-GSW;",INTEGRATED MEDCRAFT LLC,"Subrecall of a kitted device from SafeGuard Medical due to internal testing identified an issue affecting the device's sterile pad, potentially causing the sterile pad to degrade over time. The degradation may cause remnants of the nonwoven pad material to dislodge on the wound or in close proximity to the wound."

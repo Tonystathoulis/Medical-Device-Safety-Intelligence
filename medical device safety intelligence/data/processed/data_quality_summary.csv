@@ -1,0 +1,3 @@
+﻿source,selected_start,selected_end,api_expected_records,retrieved_records,unique_records,duplicate_records,missing_identifier_records,missing_date_records_in_selected_rows,invalid_date_records,out_of_range_records,source_missing_date_records_total,requests,elapsed_seconds,status,notes
+MAUDE,2026-09-01,2026-10-13,62533,62533,62533,0,0,0,0,0,3699144,72,116.91,complete for date-filtered scope,Undated source records are excluded by date filtering; count shown for transparency.
+recall,2026-09-01,2026-10-13,11,11,11,0,0,0,0,0,0,10,2.89,complete for date-filtered scope,Undated source records are excluded by date filtering; count shown for transparency.
